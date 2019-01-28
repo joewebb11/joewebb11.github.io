@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'MODEL OUTLIERS'"
-date:       2019-01-28 18:12:13 +0000
+date:       2019-01-28 13:12:14 -0500
 permalink:  model_outliers
 ---
 
