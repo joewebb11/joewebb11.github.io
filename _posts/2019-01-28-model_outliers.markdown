@@ -15,7 +15,7 @@ I used 2 methods to identify outliers.  The first was  boxplots to visualize the
 
 The second method is to use Interquartile Ranges (IQR).  IQR is the width of the box in the box-and-whisker plot.   That is, IQR = Q3 – Q1 . The IQR is used as a measure of how spread-out the values are.  Q3 is the 75% percentile and Q1 is the 25% percentile.  Statistics assumes that your data is normally distributed around a central value.   The IQR tells how spread out the "middle" values are and it is  used to identify outliers.  Outliers are "too far" from the median.  
 
-![](https://github.com/joewebb11/dsc-1-final-project-online-ds-pt-112618/blob/master/TableGrade.png)
+!['Grade' Table Stats](https://raw.githubusercontent.com/joewebb11/dsc-1-final-project-online-ds-pt-112618/master/TableGrade.png)
 
 The IQR is the length of the box in your box-and-whisker plot. An outlier is any value that lies more than one and a half (IQR x 1.5) times the length of the box from either end of the box.  Much of the research states that outliers are identified using IQR x 1.5  However, one source used IQR x 3.  I like this conservative approach in removing data.  In the table above:
 
