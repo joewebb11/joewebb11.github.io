@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "'More than a Professional Salesman, I'm a Business Consultant'"
-date:       2018-12-28 16:36:12 +0000
+title:      "'From a Professional Salesman, to a Business Consultant'"
+date:       2018-12-28 11:36:13 -0500
 permalink:  more_than_a_professional_salesman_im_a_business_consultant
 ---
 
