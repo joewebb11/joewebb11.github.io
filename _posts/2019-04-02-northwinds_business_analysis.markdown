@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Northwinds Business Analysis"
-date:       2019-04-02 14:39:28 +0000
+date:       2019-04-02 10:39:29 -0400
 permalink:  northwinds_business_analysis
 ---
 
