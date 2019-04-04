@@ -5,9 +5,9 @@ date:       2019-04-02 10:39:29 -0400
 permalink:  northwinds_business_analysis
 ---
 
-For the Northwinds business analysis project, I'm working with the Northwind database.  Northwinds is a fictious consumer products company that has offices in the Seattle, Washington, USA and London, British Isles.  After analyzing the database, I'll provide insight and recommendations to the Northwinds' 'Stakeholders'.
+For the Northwinds business analysis project, I worked with the Northwind database, which is a fictious database for a consumer products company that has offices in the Seattle, Washington, USA and London, British Isles.  After analyzing the database, I'll provide insight and recommendations to the Northwinds' 'Stakeholders'.
 
-Data will be explored that will reveal business related questions and each question will be answered using Hypothesis Testing.  Throughout the process of exploring the data and answering the questions, valuable knowledge will be gained that will provide business insight.  Conclusions and recommendations will be communicated in the results.  
+Data will be explored that will reveal business related questions and each question will be answered using Hypothesis Testing.  Throughout this process, valuable knowledge will be gained and based on the results of the tests, conculsions and recommendations will be offered.  
 
 The Scientific Method (shown below) will be used as a guide.
 
@@ -335,7 +335,7 @@ CONCLUSION: I REJECT THE NULL HYPOTHESIS that all countries are the same in term
 * France and Italy are statiscally different than 2 or more other countries to the left (less) of the mean. 
 
 BUSINESS INSIGHT: 
-* There's an opportunity to increase "REVENUE PER ORDER" with NEW customers in France and Italy.
+* There's an opportunity to increase "REVENUE PER ORDER" with NEW customers in Austria and Ireland.
 * There's an opportunity to increase "REVENUE PER ORDER" with CURRENT customers in France and Italy.
 
 ---------------------------------------------------------------------------------------------------------------------
